@@ -72,30 +72,26 @@ The variable represents the price of the house.
 # Project Workflow
 
 Dataset
-   ↓
+  ↓
 Data Inspection
-   ↓
+  ↓
 Data Cleaning & Preprocessing
-   ↓
+  ↓
 Exploratory Data Analysis
-   ↓
+  ↓
 Train-Test Split
-   ↓
- ┌─────────────────────────────┐
- │                             │
- ▼                             ▼
-Simple Linear Regression   Multiple Linear Regression
- │                             │
- ▼                             ▼
-Predictions                 Predictions
- │                             │
- └──────────────┬──────────────┘
-                ↓
-       Model Evaluation
-                ↓
-     Visualization & Analysis
-                ↓
-        Model Comparison
+  ↓
+Linear Regression Models
+  ↓
+Predictions
+  ↓
+Model Evaluation
+  ↓
+Visualization & Analysis
+  ↓
+Model Comparison
+  ↓
+Final Results
 
 ## Working
 
